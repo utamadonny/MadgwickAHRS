@@ -34,6 +34,7 @@ private:
     float yaw;
     char anglesComputed;
     void computeAngles();
+    // int instability_fix;
 
 //-------------------------------------------------------------------------------------------
 // Function declarations
